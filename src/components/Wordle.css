@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://cdn.britannica.com/36/241736-050-D40F2AEC/Abstract-cryptocurrency-with-gold-bitcoin-background.jpg");
+    color:white;
+}
+
+.items {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 100px;
+    padding:50px;
+    color:white;
+    text-shadow: 0 0 5px rgba(0, 0,0,.2);
+    background-color: #ffffff44;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px 10px rgba(0,0,0,.2);
+}
